@@ -1,10 +1,13 @@
 ar\org\centro8\curso\java\aplicaciones\enumerados\Letra.class
 ar\org\centro8\curso\java\aplicaciones\dao\jdbc\ClienteRepository.class
+ar\org\centro8\curso\java\aplicaciones\rest\RestApplication.class
 ar\org\centro8\curso\java\aplicaciones\dao\jdbc\FacturaRepository.class
 ar\org\centro8\curso\java\aplicaciones\enumerados\TipoDocumento.class
+ar\org\centro8\curso\java\aplicaciones\rest\ArticuloServicio.class
 ar\org\centro8\curso\java\aplicaciones\test\TestDetalleRepository.class
 ar\org\centro8\curso\java\aplicaciones\dao\jdbc\ArticuloRepository.class
 ar\org\centro8\curso\java\aplicaciones\dao\interfaces\I_ArticuloRepository.class
+ar\org\centro8\curso\java\aplicaciones\rest\FacturaServicio.class
 ar\org\centro8\curso\java\aplicaciones\test\TestArticuloRepository.class
 ar\org\centro8\curso\java\aplicaciones\test\TestFacturaRepository.class
 ar\org\centro8\curso\java\aplicaciones\dao\interfaces\I_FacturaRepository.class
